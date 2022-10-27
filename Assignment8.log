@@ -1,0 +1,5949 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-26T22:48:16.285830800Z</date>
+  <millis>1666824496285</millis>
+  <nanos>830800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program Start.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.216186200Z</date>
+  <millis>1666824497216</millis>
+  <nanos>186200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>establishConnection</method>
+  <thread>18</thread>
+  <message>Database connection established.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.230596300Z</date>
+  <millis>1666824497230</millis>
+  <nanos>596300</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.233412700Z</date>
+  <millis>1666824497233</millis>
+  <nanos>412700</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.237410400Z</date>
+  <millis>1666824497237</millis>
+  <nanos>410400</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.240410200Z</date>
+  <millis>1666824497240</millis>
+  <nanos>410200</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.243409900Z</date>
+  <millis>1666824497243</millis>
+  <nanos>409900</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.246412Z</date>
+  <millis>1666824497246</millis>
+  <nanos>412000</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.253386300Z</date>
+  <millis>1666824497253</millis>
+  <nanos>386300</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, upon, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.256383600Z</date>
+  <millis>1666824497256</millis>
+  <nanos>383600</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.259383600Z</date>
+  <millis>1666824497259</millis>
+  <nanos>383600</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.261383400Z</date>
+  <millis>1666824497261</millis>
+  <nanos>383400</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.262386400Z</date>
+  <millis>1666824497262</millis>
+  <nanos>386400</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, while, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.265383200Z</date>
+  <millis>1666824497265</millis>
+  <nanos>383200</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.268383300Z</date>
+  <millis>1666824497268</millis>
+  <nanos>383300</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.269388300Z</date>
+  <millis>1666824497269</millis>
+  <nanos>388300</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, weak, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.271383600Z</date>
+  <millis>1666824497271</millis>
+  <nanos>383600</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.272383400Z</date>
+  <millis>1666824497272</millis>
+  <nanos>383400</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, weary, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.275386300Z</date>
+  <millis>1666824497275</millis>
+  <nanos>386300</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.277383400Z</date>
+  <millis>1666824497277</millis>
+  <nanos>383400</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.280384900Z</date>
+  <millis>1666824497280</millis>
+  <nanos>384900</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.282384100Z</date>
+  <millis>1666824497282</millis>
+  <nanos>384100</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.283386900Z</date>
+  <millis>1666824497283</millis>
+  <nanos>386900</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, volume, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.286383800Z</date>
+  <millis>1666824497286</millis>
+  <nanos>383800</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.288384100Z</date>
+  <millis>1666824497288</millis>
+  <nanos>384100</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.292391900Z</date>
+  <millis>1666824497292</millis>
+  <nanos>391900</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.295386200Z</date>
+  <millis>1666824497295</millis>
+  <nanos>386200</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.298383900Z</date>
+  <millis>1666824497298</millis>
+  <nanos>383900</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.301382600Z</date>
+  <millis>1666824497301</millis>
+  <nanos>382600</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.303383400Z</date>
+  <millis>1666824497303</millis>
+  <nanos>383400</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.306383200Z</date>
+  <millis>1666824497306</millis>
+  <nanos>383200</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.309383900Z</date>
+  <millis>1666824497309</millis>
+  <nanos>383900</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.311384Z</date>
+  <millis>1666824497311</millis>
+  <nanos>384000</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.315383800Z</date>
+  <millis>1666824497315</millis>
+  <nanos>383800</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.317383100Z</date>
+  <millis>1666824497317</millis>
+  <nanos>383100</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.320385800Z</date>
+  <millis>1666824497320</millis>
+  <nanos>385800</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.322384500Z</date>
+  <millis>1666824497322</millis>
+  <nanos>384500</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.324385500Z</date>
+  <millis>1666824497324</millis>
+  <nanos>385500</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.327383900Z</date>
+  <millis>1666824497327</millis>
+  <nanos>383900</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.330383500Z</date>
+  <millis>1666824497330</millis>
+  <nanos>383500</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.332511500Z</date>
+  <millis>1666824497332</millis>
+  <nanos>511500</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.335511200Z</date>
+  <millis>1666824497335</millis>
+  <nanos>511200</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.337512200Z</date>
+  <millis>1666824497337</millis>
+  <nanos>512200</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.338512600Z</date>
+  <millis>1666824497338</millis>
+  <nanos>512600</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, visiter, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.340514500Z</date>
+  <millis>1666824497340</millis>
+  <nanos>514500</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.343030600Z</date>
+  <millis>1666824497343</millis>
+  <nanos>30600</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.345035200Z</date>
+  <millis>1666824497345</millis>
+  <nanos>35200</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.348032900Z</date>
+  <millis>1666824497348</millis>
+  <nanos>32900</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.351056Z</date>
+  <millis>1666824497351</millis>
+  <nanos>56000</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.354045400Z</date>
+  <millis>1666824497354</millis>
+  <nanos>45400</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.357047400Z</date>
+  <millis>1666824497357</millis>
+  <nanos>47400</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.359045300Z</date>
+  <millis>1666824497359</millis>
+  <nanos>45300</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.362047900Z</date>
+  <millis>1666824497362</millis>
+  <nanos>47900</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.362047900Z</date>
+  <millis>1666824497362</millis>
+  <nanos>47900</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, was, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.365624100Z</date>
+  <millis>1666824497365</millis>
+  <nanos>624100</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.367625Z</date>
+  <millis>1666824497367</millis>
+  <nanos>625000</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.369623700Z</date>
+  <millis>1666824497369</millis>
+  <nanos>623700</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.372247800Z</date>
+  <millis>1666824497372</millis>
+  <nanos>247800</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.374196800Z</date>
+  <millis>1666824497374</millis>
+  <nanos>196800</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.377209600Z</date>
+  <millis>1666824497377</millis>
+  <nanos>209600</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.381205700Z</date>
+  <millis>1666824497381</millis>
+  <nanos>205700</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.381205700Z</date>
+  <millis>1666824497381</millis>
+  <nanos>205700</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wrought, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.384205900Z</date>
+  <millis>1666824497384</millis>
+  <nanos>205900</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.387205800Z</date>
+  <millis>1666824497387</millis>
+  <nanos>205800</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.389205900Z</date>
+  <millis>1666824497389</millis>
+  <nanos>205900</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.392766400Z</date>
+  <millis>1666824497392</millis>
+  <nanos>766400</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.392766400Z</date>
+  <millis>1666824497392</millis>
+  <nanos>766400</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wished, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.395766400Z</date>
+  <millis>1666824497395</millis>
+  <nanos>766400</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.397765900Z</date>
+  <millis>1666824497397</millis>
+  <nanos>765900</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, vainly, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.399299400Z</date>
+  <millis>1666824497399</millis>
+  <nanos>299400</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.401836Z</date>
+  <millis>1666824497401</millis>
+  <nanos>836000</nanos>
+  <sequence>70</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.403835700Z</date>
+  <millis>1666824497403</millis>
+  <nanos>835700</nanos>
+  <sequence>71</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.405837400Z</date>
+  <millis>1666824497405</millis>
+  <nanos>837400</nanos>
+  <sequence>72</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.408837400Z</date>
+  <millis>1666824497408</millis>
+  <nanos>837400</nanos>
+  <sequence>73</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.410835800Z</date>
+  <millis>1666824497410</millis>
+  <nanos>835800</nanos>
+  <sequence>74</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.413836200Z</date>
+  <millis>1666824497413</millis>
+  <nanos>836200</nanos>
+  <sequence>75</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.415835200Z</date>
+  <millis>1666824497415</millis>
+  <nanos>835200</nanos>
+  <sequence>76</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.418835600Z</date>
+  <millis>1666824497418</millis>
+  <nanos>835600</nanos>
+  <sequence>77</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.420835600Z</date>
+  <millis>1666824497420</millis>
+  <nanos>835600</nanos>
+  <sequence>78</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.422836100Z</date>
+  <millis>1666824497422</millis>
+  <nanos>836100</nanos>
+  <sequence>79</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.424846800Z</date>
+  <millis>1666824497424</millis>
+  <nanos>846800</nanos>
+  <sequence>80</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.427836Z</date>
+  <millis>1666824497427</millis>
+  <nanos>836000</nanos>
+  <sequence>81</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.430836200Z</date>
+  <millis>1666824497430</millis>
+  <nanos>836200</nanos>
+  <sequence>82</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.431836600Z</date>
+  <millis>1666824497431</millis>
+  <nanos>836600</nanos>
+  <sequence>83</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, whom, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.433837800Z</date>
+  <millis>1666824497433</millis>
+  <nanos>837800</nanos>
+  <sequence>84</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.435982200Z</date>
+  <millis>1666824497435</millis>
+  <nanos>982200</nanos>
+  <sequence>85</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.438990500Z</date>
+  <millis>1666824497438</millis>
+  <nanos>990500</nanos>
+  <sequence>86</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.440991Z</date>
+  <millis>1666824497440</millis>
+  <nanos>991000</nanos>
+  <sequence>87</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.442992400Z</date>
+  <millis>1666824497442</millis>
+  <nanos>992400</nanos>
+  <sequence>88</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.445992800Z</date>
+  <millis>1666824497445</millis>
+  <nanos>992800</nanos>
+  <sequence>89</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.447991300Z</date>
+  <millis>1666824497447</millis>
+  <nanos>991300</nanos>
+  <sequence>90</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.449991300Z</date>
+  <millis>1666824497449</millis>
+  <nanos>991300</nanos>
+  <sequence>91</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.452387200Z</date>
+  <millis>1666824497452</millis>
+  <nanos>387200</nanos>
+  <sequence>92</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.454398500Z</date>
+  <millis>1666824497454</millis>
+  <nanos>398500</nanos>
+  <sequence>93</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.457396800Z</date>
+  <millis>1666824497457</millis>
+  <nanos>396800</nanos>
+  <sequence>94</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.459397100Z</date>
+  <millis>1666824497459</millis>
+  <nanos>397100</nanos>
+  <sequence>95</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.462397200Z</date>
+  <millis>1666824497462</millis>
+  <nanos>397200</nanos>
+  <sequence>96</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.464396800Z</date>
+  <millis>1666824497464</millis>
+  <nanos>396800</nanos>
+  <sequence>97</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.465397100Z</date>
+  <millis>1666824497465</millis>
+  <nanos>397100</nanos>
+  <sequence>98</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, with, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.467396700Z</date>
+  <millis>1666824497467</millis>
+  <nanos>396700</nanos>
+  <sequence>99</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.469399Z</date>
+  <millis>1666824497469</millis>
+  <nanos>399000</nanos>
+  <sequence>100</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.472396600Z</date>
+  <millis>1666824497472</millis>
+  <nanos>396600</nanos>
+  <sequence>101</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.474418800Z</date>
+  <millis>1666824497474</millis>
+  <nanos>418800</nanos>
+  <sequence>102</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.477417700Z</date>
+  <millis>1666824497477</millis>
+  <nanos>417700</nanos>
+  <sequence>103</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.480417700Z</date>
+  <millis>1666824497480</millis>
+  <nanos>417700</nanos>
+  <sequence>104</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.482418200Z</date>
+  <millis>1666824497482</millis>
+  <nanos>418200</nanos>
+  <sequence>105</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.484421500Z</date>
+  <millis>1666824497484</millis>
+  <nanos>421500</nanos>
+  <sequence>106</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.486421200Z</date>
+  <millis>1666824497486</millis>
+  <nanos>421200</nanos>
+  <sequence>107</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.489715700Z</date>
+  <millis>1666824497489</millis>
+  <nanos>715700</nanos>
+  <sequence>108</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.492588400Z</date>
+  <millis>1666824497492</millis>
+  <nanos>588400</nanos>
+  <sequence>109</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.494597700Z</date>
+  <millis>1666824497494</millis>
+  <nanos>597700</nanos>
+  <sequence>110</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.497601Z</date>
+  <millis>1666824497497</millis>
+  <nanos>601000</nanos>
+  <sequence>111</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.500598900Z</date>
+  <millis>1666824497500</millis>
+  <nanos>598900</nanos>
+  <sequence>112</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.502599100Z</date>
+  <millis>1666824497502</millis>
+  <nanos>599100</nanos>
+  <sequence>113</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.504602600Z</date>
+  <millis>1666824497504</millis>
+  <nanos>602600</nanos>
+  <sequence>114</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.506602200Z</date>
+  <millis>1666824497506</millis>
+  <nanos>602200</nanos>
+  <sequence>115</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.509514700Z</date>
+  <millis>1666824497509</millis>
+  <nanos>514700</nanos>
+  <sequence>116</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.511526900Z</date>
+  <millis>1666824497511</millis>
+  <nanos>526900</nanos>
+  <sequence>117</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.514524200Z</date>
+  <millis>1666824497514</millis>
+  <nanos>524200</nanos>
+  <sequence>118</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.516524100Z</date>
+  <millis>1666824497516</millis>
+  <nanos>524100</nanos>
+  <sequence>119</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.518526200Z</date>
+  <millis>1666824497518</millis>
+  <nanos>526200</nanos>
+  <sequence>120</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.521524800Z</date>
+  <millis>1666824497521</millis>
+  <nanos>524800</nanos>
+  <sequence>121</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.523524500Z</date>
+  <millis>1666824497523</millis>
+  <nanos>524500</nanos>
+  <sequence>122</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.525526400Z</date>
+  <millis>1666824497525</millis>
+  <nanos>526400</nanos>
+  <sequence>123</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.527525800Z</date>
+  <millis>1666824497527</millis>
+  <nanos>525800</nanos>
+  <sequence>124</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.530526600Z</date>
+  <millis>1666824497530</millis>
+  <nanos>526600</nanos>
+  <sequence>125</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.533525Z</date>
+  <millis>1666824497533</millis>
+  <nanos>525000</nanos>
+  <sequence>126</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.535950400Z</date>
+  <millis>1666824497535</millis>
+  <nanos>950400</nanos>
+  <sequence>127</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.537960400Z</date>
+  <millis>1666824497537</millis>
+  <nanos>960400</nanos>
+  <sequence>128</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.538960400Z</date>
+  <millis>1666824497538</millis>
+  <nanos>960400</nanos>
+  <sequence>129</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, your, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.541089800Z</date>
+  <millis>1666824497541</millis>
+  <nanos>89800</nanos>
+  <sequence>130</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.543100Z</date>
+  <millis>1666824497543</millis>
+  <nanos>100000</nanos>
+  <sequence>131</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.545100Z</date>
+  <millis>1666824497545</millis>
+  <nanos>100000</nanos>
+  <sequence>132</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.548099800Z</date>
+  <millis>1666824497548</millis>
+  <nanos>99800</nanos>
+  <sequence>133</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.549100200Z</date>
+  <millis>1666824497549</millis>
+  <nanos>100200</nanos>
+  <sequence>134</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, you, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.551100700Z</date>
+  <millis>1666824497551</millis>
+  <nanos>100700</nanos>
+  <sequence>135</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.553099800Z</date>
+  <millis>1666824497553</millis>
+  <nanos>99800</nanos>
+  <sequence>136</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.556099300Z</date>
+  <millis>1666824497556</millis>
+  <nanos>99300</nanos>
+  <sequence>137</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.558101100Z</date>
+  <millis>1666824497558</millis>
+  <nanos>101100</nanos>
+  <sequence>138</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.561099400Z</date>
+  <millis>1666824497561</millis>
+  <nanos>99400</nanos>
+  <sequence>139</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.561099400Z</date>
+  <millis>1666824497561</millis>
+  <nanos>99400</nanos>
+  <sequence>140</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wide, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.564100Z</date>
+  <millis>1666824497564</millis>
+  <nanos>100000</nanos>
+  <sequence>141</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.566100600Z</date>
+  <millis>1666824497566</millis>
+  <nanos>100600</nanos>
+  <sequence>142</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.569099800Z</date>
+  <millis>1666824497569</millis>
+  <nanos>99800</nanos>
+  <sequence>143</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.571099600Z</date>
+  <millis>1666824497571</millis>
+  <nanos>99600</nanos>
+  <sequence>144</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.574102Z</date>
+  <millis>1666824497574</millis>
+  <nanos>102000</nanos>
+  <sequence>145</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.574102Z</date>
+  <millis>1666824497574</millis>
+  <nanos>102000</nanos>
+  <sequence>146</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wondering, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.577100600Z</date>
+  <millis>1666824497577</millis>
+  <nanos>100600</nanos>
+  <sequence>147</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.579102800Z</date>
+  <millis>1666824497579</millis>
+  <nanos>102800</nanos>
+  <sequence>148</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.583101Z</date>
+  <millis>1666824497583</millis>
+  <nanos>101000</nanos>
+  <sequence>149</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.585087100Z</date>
+  <millis>1666824497585</millis>
+  <nanos>87100</nanos>
+  <sequence>150</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.588095900Z</date>
+  <millis>1666824497588</millis>
+  <nanos>95900</nanos>
+  <sequence>151</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.590095600Z</date>
+  <millis>1666824497590</millis>
+  <nanos>95600</nanos>
+  <sequence>152</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.592097400Z</date>
+  <millis>1666824497592</millis>
+  <nanos>97400</nanos>
+  <sequence>153</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.594096600Z</date>
+  <millis>1666824497594</millis>
+  <nanos>96600</nanos>
+  <sequence>154</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.597096200Z</date>
+  <millis>1666824497597</millis>
+  <nanos>96200</nanos>
+  <sequence>155</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.599096500Z</date>
+  <millis>1666824497599</millis>
+  <nanos>96500</nanos>
+  <sequence>156</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.601622500Z</date>
+  <millis>1666824497601</millis>
+  <nanos>622500</nanos>
+  <sequence>157</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.603528200Z</date>
+  <millis>1666824497603</millis>
+  <nanos>528200</nanos>
+  <sequence>158</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.605538200Z</date>
+  <millis>1666824497605</millis>
+  <nanos>538200</nanos>
+  <sequence>159</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.606541Z</date>
+  <millis>1666824497606</millis>
+  <nanos>541000</nanos>
+  <sequence>160</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, word, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.608538500Z</date>
+  <millis>1666824497608</millis>
+  <nanos>538500</nanos>
+  <sequence>161</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.609540600Z</date>
+  <millis>1666824497609</millis>
+  <nanos>540600</nanos>
+  <sequence>162</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, whispered, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.611538300Z</date>
+  <millis>1666824497611</millis>
+  <nanos>538300</nanos>
+  <sequence>163</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.613539400Z</date>
+  <millis>1666824497613</millis>
+  <nanos>539400</nanos>
+  <sequence>164</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.615538600Z</date>
+  <millis>1666824497615</millis>
+  <nanos>538600</nanos>
+  <sequence>165</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.617538600Z</date>
+  <millis>1666824497617</millis>
+  <nanos>538600</nanos>
+  <sequence>166</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.619538500Z</date>
+  <millis>1666824497619</millis>
+  <nanos>538500</nanos>
+  <sequence>167</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.622539Z</date>
+  <millis>1666824497622</millis>
+  <nanos>539000</nanos>
+  <sequence>168</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.624574200Z</date>
+  <millis>1666824497624</millis>
+  <nanos>574200</nanos>
+  <sequence>169</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.624574200Z</date>
+  <millis>1666824497624</millis>
+  <nanos>574200</nanos>
+  <sequence>170</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, within, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.627735100Z</date>
+  <millis>1666824497627</millis>
+  <nanos>735100</nanos>
+  <sequence>171</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.630746300Z</date>
+  <millis>1666824497630</millis>
+  <nanos>746300</nanos>
+  <sequence>172</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.632746Z</date>
+  <millis>1666824497632</millis>
+  <nanos>746000</nanos>
+  <sequence>173</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.634745700Z</date>
+  <millis>1666824497634</millis>
+  <nanos>745700</nanos>
+  <sequence>174</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.636746600Z</date>
+  <millis>1666824497636</millis>
+  <nanos>746600</nanos>
+  <sequence>175</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.639748300Z</date>
+  <millis>1666824497639</millis>
+  <nanos>748300</nanos>
+  <sequence>176</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.641747700Z</date>
+  <millis>1666824497641</millis>
+  <nanos>747700</nanos>
+  <sequence>177</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.642748200Z</date>
+  <millis>1666824497642</millis>
+  <nanos>748200</nanos>
+  <sequence>178</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, window, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.644747Z</date>
+  <millis>1666824497644</millis>
+  <nanos>747000</nanos>
+  <sequence>179</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.647748400Z</date>
+  <millis>1666824497647</millis>
+  <nanos>748400</nanos>
+  <sequence>180</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.650746600Z</date>
+  <millis>1666824497650</millis>
+  <nanos>746600</nanos>
+  <sequence>181</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.650746600Z</date>
+  <millis>1666824497650</millis>
+  <nanos>746600</nanos>
+  <sequence>182</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, what, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.652746400Z</date>
+  <millis>1666824497652</millis>
+  <nanos>746400</nanos>
+  <sequence>183</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.655746900Z</date>
+  <millis>1666824497655</millis>
+  <nanos>746900</nanos>
+  <sequence>184</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.657747300Z</date>
+  <millis>1666824497657</millis>
+  <nanos>747300</nanos>
+  <sequence>185</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.660746500Z</date>
+  <millis>1666824497660</millis>
+  <nanos>746500</nanos>
+  <sequence>186</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.662749800Z</date>
+  <millis>1666824497662</millis>
+  <nanos>749800</nanos>
+  <sequence>187</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.663748500Z</date>
+  <millis>1666824497663</millis>
+  <nanos>748500</nanos>
+  <sequence>188</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wind, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.665747200Z</date>
+  <millis>1666824497665</millis>
+  <nanos>747200</nanos>
+  <sequence>189</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.668746900Z</date>
+  <millis>1666824497668</millis>
+  <nanos>746900</nanos>
+  <sequence>190</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.670746400Z</date>
+  <millis>1666824497670</millis>
+  <nanos>746400</nanos>
+  <sequence>191</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.671746600Z</date>
+  <millis>1666824497671</millis>
+  <nanos>746600</nanos>
+  <sequence>192</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, when, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.673747100Z</date>
+  <millis>1666824497673</millis>
+  <nanos>747100</nanos>
+  <sequence>193</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.676747Z</date>
+  <millis>1666824497676</millis>
+  <nanos>747000</nanos>
+  <sequence>194</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.678746800Z</date>
+  <millis>1666824497678</millis>
+  <nanos>746800</nanos>
+  <sequence>195</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.681746100Z</date>
+  <millis>1666824497681</millis>
+  <nanos>746100</nanos>
+  <sequence>196</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.684747Z</date>
+  <millis>1666824497684</millis>
+  <nanos>747000</nanos>
+  <sequence>197</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.686746300Z</date>
+  <millis>1666824497686</millis>
+  <nanos>746300</nanos>
+  <sequence>198</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.689747Z</date>
+  <millis>1666824497689</millis>
+  <nanos>747000</nanos>
+  <sequence>199</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.690748Z</date>
+  <millis>1666824497690</millis>
+  <nanos>748000</nanos>
+  <sequence>200</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, yore, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.692747200Z</date>
+  <millis>1666824497692</millis>
+  <nanos>747200</nanos>
+  <sequence>201</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.695748100Z</date>
+  <millis>1666824497695</millis>
+  <nanos>748100</nanos>
+  <sequence>202</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.698746700Z</date>
+  <millis>1666824497698</millis>
+  <nanos>746700</nanos>
+  <sequence>203</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.700747200Z</date>
+  <millis>1666824497700</millis>
+  <nanos>747200</nanos>
+  <sequence>204</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.703746900Z</date>
+  <millis>1666824497703</millis>
+  <nanos>746900</nanos>
+  <sequence>205</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.705746900Z</date>
+  <millis>1666824497705</millis>
+  <nanos>746900</nanos>
+  <sequence>206</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.708747600Z</date>
+  <millis>1666824497708</millis>
+  <nanos>747600</nanos>
+  <sequence>207</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.710746600Z</date>
+  <millis>1666824497710</millis>
+  <nanos>746600</nanos>
+  <sequence>208</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.713746500Z</date>
+  <millis>1666824497713</millis>
+  <nanos>746500</nanos>
+  <sequence>209</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.716746400Z</date>
+  <millis>1666824497716</millis>
+  <nanos>746400</nanos>
+  <sequence>210</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.718746300Z</date>
+  <millis>1666824497718</millis>
+  <nanos>746300</nanos>
+  <sequence>211</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.721848800Z</date>
+  <millis>1666824497721</millis>
+  <nanos>848800</nanos>
+  <sequence>212</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.724844700Z</date>
+  <millis>1666824497724</millis>
+  <nanos>844700</nanos>
+  <sequence>213</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.726845700Z</date>
+  <millis>1666824497726</millis>
+  <nanos>845700</nanos>
+  <sequence>214</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.729845800Z</date>
+  <millis>1666824497729</millis>
+  <nanos>845800</nanos>
+  <sequence>215</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.732845600Z</date>
+  <millis>1666824497732</millis>
+  <nanos>845600</nanos>
+  <sequence>216</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.734845200Z</date>
+  <millis>1666824497734</millis>
+  <nanos>845200</nanos>
+  <sequence>217</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.737431400Z</date>
+  <millis>1666824497737</millis>
+  <nanos>431400</nanos>
+  <sequence>218</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.739431Z</date>
+  <millis>1666824497739</millis>
+  <nanos>431000</nanos>
+  <sequence>219</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.742431900Z</date>
+  <millis>1666824497742</millis>
+  <nanos>431900</nanos>
+  <sequence>220</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.744432Z</date>
+  <millis>1666824497744</millis>
+  <nanos>432000</nanos>
+  <sequence>221</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.766431300Z</date>
+  <millis>1666824497766</millis>
+  <nanos>431300</nanos>
+  <sequence>222</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.769434200Z</date>
+  <millis>1666824497769</millis>
+  <nanos>434200</nanos>
+  <sequence>223</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.772431300Z</date>
+  <millis>1666824497772</millis>
+  <nanos>431300</nanos>
+  <sequence>224</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.775432400Z</date>
+  <millis>1666824497775</millis>
+  <nanos>432400</nanos>
+  <sequence>225</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.777432100Z</date>
+  <millis>1666824497777</millis>
+  <nanos>432100</nanos>
+  <sequence>226</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.778431200Z</date>
+  <millis>1666824497778</millis>
+  <nanos>431200</nanos>
+  <sequence>227</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wore, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.781433300Z</date>
+  <millis>1666824497781</millis>
+  <nanos>433300</nanos>
+  <sequence>228</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.783431100Z</date>
+  <millis>1666824497783</millis>
+  <nanos>431100</nanos>
+  <sequence>229</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.786431200Z</date>
+  <millis>1666824497786</millis>
+  <nanos>431200</nanos>
+  <sequence>230</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.788432100Z</date>
+  <millis>1666824497788</millis>
+  <nanos>432100</nanos>
+  <sequence>231</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.791431700Z</date>
+  <millis>1666824497791</millis>
+  <nanos>431700</nanos>
+  <sequence>232</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.793431500Z</date>
+  <millis>1666824497793</millis>
+  <nanos>431500</nanos>
+  <sequence>233</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.796434900Z</date>
+  <millis>1666824497796</millis>
+  <nanos>434900</nanos>
+  <sequence>234</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.799435400Z</date>
+  <millis>1666824497799</millis>
+  <nanos>435400</nanos>
+  <sequence>235</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.802431200Z</date>
+  <millis>1666824497802</millis>
+  <nanos>431200</nanos>
+  <sequence>236</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.805432700Z</date>
+  <millis>1666824497805</millis>
+  <nanos>432700</nanos>
+  <sequence>237</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.807432300Z</date>
+  <millis>1666824497807</millis>
+  <nanos>432300</nanos>
+  <sequence>238</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.808432500Z</date>
+  <millis>1666824497808</millis>
+  <nanos>432500</nanos>
+  <sequence>239</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wandering, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.811431600Z</date>
+  <millis>1666824497811</millis>
+  <nanos>431600</nanos>
+  <sequence>240</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.814434100Z</date>
+  <millis>1666824497814</millis>
+  <nanos>434100</nanos>
+  <sequence>241</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.816432Z</date>
+  <millis>1666824497816</millis>
+  <nanos>432000</nanos>
+  <sequence>242</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.819433Z</date>
+  <millis>1666824497819</millis>
+  <nanos>433000</nanos>
+  <sequence>243</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.821452500Z</date>
+  <millis>1666824497821</millis>
+  <nanos>452500</nanos>
+  <sequence>244</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.823448200Z</date>
+  <millis>1666824497823</millis>
+  <nanos>448200</nanos>
+  <sequence>245</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.826445700Z</date>
+  <millis>1666824497826</millis>
+  <nanos>445700</nanos>
+  <sequence>246</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.828445500Z</date>
+  <millis>1666824497828</millis>
+  <nanos>445500</nanos>
+  <sequence>247</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.832445100Z</date>
+  <millis>1666824497832</millis>
+  <nanos>445100</nanos>
+  <sequence>248</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.834445300Z</date>
+  <millis>1666824497834</millis>
+  <nanos>445300</nanos>
+  <sequence>249</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.836445400Z</date>
+  <millis>1666824497836</millis>
+  <nanos>445400</nanos>
+  <sequence>250</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.839445500Z</date>
+  <millis>1666824497839</millis>
+  <nanos>445500</nanos>
+  <sequence>251</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.841445800Z</date>
+  <millis>1666824497841</millis>
+  <nanos>445800</nanos>
+  <sequence>252</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.844012400Z</date>
+  <millis>1666824497844</millis>
+  <nanos>12400</nanos>
+  <sequence>253</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.848014700Z</date>
+  <millis>1666824497848</millis>
+  <nanos>14700</nanos>
+  <sequence>254</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.854012200Z</date>
+  <millis>1666824497854</millis>
+  <nanos>12200</nanos>
+  <sequence>255</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.860013400Z</date>
+  <millis>1666824497860</millis>
+  <nanos>13400</nanos>
+  <sequence>256</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.868856100Z</date>
+  <millis>1666824497868</millis>
+  <nanos>856100</nanos>
+  <sequence>257</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.875856300Z</date>
+  <millis>1666824497875</millis>
+  <nanos>856300</nanos>
+  <sequence>258</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.883529800Z</date>
+  <millis>1666824497883</millis>
+  <nanos>529800</nanos>
+  <sequence>259</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.889886300Z</date>
+  <millis>1666824497889</millis>
+  <nanos>886300</nanos>
+  <sequence>260</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.894885Z</date>
+  <millis>1666824497894</millis>
+  <nanos>885000</nanos>
+  <sequence>261</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.895887400Z</date>
+  <millis>1666824497895</millis>
+  <nanos>887400</nanos>
+  <sequence>262</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, we, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.902251500Z</date>
+  <millis>1666824497902</millis>
+  <nanos>251500</nanos>
+  <sequence>263</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.909448400Z</date>
+  <millis>1666824497909</millis>
+  <nanos>448400</nanos>
+  <sequence>264</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.916458600Z</date>
+  <millis>1666824497916</millis>
+  <nanos>458600</nanos>
+  <sequence>265</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.923458Z</date>
+  <millis>1666824497923</millis>
+  <nanos>458000</nanos>
+  <sequence>266</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.930460100Z</date>
+  <millis>1666824497930</millis>
+  <nanos>460100</nanos>
+  <sequence>267</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.937186800Z</date>
+  <millis>1666824497937</millis>
+  <nanos>186800</nanos>
+  <sequence>268</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.938188400Z</date>
+  <millis>1666824497938</millis>
+  <nanos>188400</nanos>
+  <sequence>269</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, yet, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.943187800Z</date>
+  <millis>1666824497943</millis>
+  <nanos>187800</nanos>
+  <sequence>270</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.949186800Z</date>
+  <millis>1666824497949</millis>
+  <nanos>186800</nanos>
+  <sequence>271</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.955063100Z</date>
+  <millis>1666824497955</millis>
+  <nanos>63100</nanos>
+  <sequence>272</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.962967200Z</date>
+  <millis>1666824497962</millis>
+  <nanos>967200</nanos>
+  <sequence>273</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.971083700Z</date>
+  <millis>1666824497971</millis>
+  <nanos>83700</nanos>
+  <sequence>274</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.977406Z</date>
+  <millis>1666824497977</millis>
+  <nanos>406000</nanos>
+  <sequence>275</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.984407700Z</date>
+  <millis>1666824497984</millis>
+  <nanos>407700</nanos>
+  <sequence>276</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.991712400Z</date>
+  <millis>1666824497991</millis>
+  <nanos>712400</nanos>
+  <sequence>277</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.993803800Z</date>
+  <millis>1666824497993</millis>
+  <nanos>803800</nanos>
+  <sequence>278</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.995802900Z</date>
+  <millis>1666824497995</millis>
+  <nanos>802900</nanos>
+  <sequence>279</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:17.998802600Z</date>
+  <millis>1666824497998</millis>
+  <nanos>802600</nanos>
+  <sequence>280</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.000751Z</date>
+  <millis>1666824498000</millis>
+  <nanos>751000</nanos>
+  <sequence>281</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.002761100Z</date>
+  <millis>1666824498002</millis>
+  <nanos>761100</nanos>
+  <sequence>282</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.004771400Z</date>
+  <millis>1666824498004</millis>
+  <nanos>771400</nanos>
+  <sequence>283</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.004771400Z</date>
+  <millis>1666824498004</millis>
+  <nanos>771400</nanos>
+  <sequence>284</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, uttered, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.006772800Z</date>
+  <millis>1666824498006</millis>
+  <nanos>772800</nanos>
+  <sequence>285</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.009772200Z</date>
+  <millis>1666824498009</millis>
+  <nanos>772200</nanos>
+  <sequence>286</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.011772200Z</date>
+  <millis>1666824498011</millis>
+  <nanos>772200</nanos>
+  <sequence>287</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.013771800Z</date>
+  <millis>1666824498013</millis>
+  <nanos>771800</nanos>
+  <sequence>288</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.015771200Z</date>
+  <millis>1666824498015</millis>
+  <nanos>771200</nanos>
+  <sequence>289</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.018770600Z</date>
+  <millis>1666824498018</millis>
+  <nanos>770600</nanos>
+  <sequence>290</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.020771100Z</date>
+  <millis>1666824498020</millis>
+  <nanos>771100</nanos>
+  <sequence>291</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.022772200Z</date>
+  <millis>1666824498022</millis>
+  <nanos>772200</nanos>
+  <sequence>292</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.023771900Z</date>
+  <millis>1666824498023</millis>
+  <nanos>771900</nanos>
+  <sequence>293</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, will, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.025772300Z</date>
+  <millis>1666824498025</millis>
+  <nanos>772300</nanos>
+  <sequence>294</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.028771600Z</date>
+  <millis>1666824498028</millis>
+  <nanos>771600</nanos>
+  <sequence>295</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.031103Z</date>
+  <millis>1666824498031</millis>
+  <nanos>103000</nanos>
+  <sequence>296</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.033113200Z</date>
+  <millis>1666824498033</millis>
+  <nanos>113200</nanos>
+  <sequence>297</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.035112800Z</date>
+  <millis>1666824498035</millis>
+  <nanos>112800</nanos>
+  <sequence>298</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.037113700Z</date>
+  <millis>1666824498037</millis>
+  <nanos>113700</nanos>
+  <sequence>299</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.040116600Z</date>
+  <millis>1666824498040</millis>
+  <nanos>116600</nanos>
+  <sequence>300</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.040116600Z</date>
+  <millis>1666824498040</millis>
+  <nanos>116600</nanos>
+  <sequence>301</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, utters, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.043113100Z</date>
+  <millis>1666824498043</millis>
+  <nanos>113100</nanos>
+  <sequence>302</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.045114300Z</date>
+  <millis>1666824498045</millis>
+  <nanos>114300</nanos>
+  <sequence>303</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.048114100Z</date>
+  <millis>1666824498048</millis>
+  <nanos>114100</nanos>
+  <sequence>304</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.048114100Z</date>
+  <millis>1666824498048</millis>
+  <nanos>114100</nanos>
+  <sequence>305</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, unhappy, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.050701400Z</date>
+  <millis>1666824498050</millis>
+  <nanos>701400</nanos>
+  <sequence>306</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.051710100Z</date>
+  <millis>1666824498051</millis>
+  <nanos>710100</nanos>
+  <sequence>307</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, unmerciful, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.053707600Z</date>
+  <millis>1666824498053</millis>
+  <nanos>707600</nanos>
+  <sequence>308</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.055706500Z</date>
+  <millis>1666824498055</millis>
+  <nanos>706500</nanos>
+  <sequence>309</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.057708800Z</date>
+  <millis>1666824498057</millis>
+  <nanos>708800</nanos>
+  <sequence>310</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.060601400Z</date>
+  <millis>1666824498060</millis>
+  <nanos>601400</nanos>
+  <sequence>311</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.063611700Z</date>
+  <millis>1666824498063</millis>
+  <nanos>611700</nanos>
+  <sequence>312</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.065621400Z</date>
+  <millis>1666824498065</millis>
+  <nanos>621400</nanos>
+  <sequence>313</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.067621100Z</date>
+  <millis>1666824498067</millis>
+  <nanos>621100</nanos>
+  <sequence>314</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.069624200Z</date>
+  <millis>1666824498069</millis>
+  <nanos>624200</nanos>
+  <sequence>315</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.071622400Z</date>
+  <millis>1666824498071</millis>
+  <nanos>622400</nanos>
+  <sequence>316</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.074621500Z</date>
+  <millis>1666824498074</millis>
+  <nanos>621500</nanos>
+  <sequence>317</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.074621500Z</date>
+  <millis>1666824498074</millis>
+  <nanos>621500</nanos>
+  <sequence>318</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wheeled, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.077622200Z</date>
+  <millis>1666824498077</millis>
+  <nanos>622200</nanos>
+  <sequence>319</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.079621500Z</date>
+  <millis>1666824498079</millis>
+  <nanos>621500</nanos>
+  <sequence>320</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.082308200Z</date>
+  <millis>1666824498082</millis>
+  <nanos>308200</nanos>
+  <sequence>321</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.082308200Z</date>
+  <millis>1666824498082</millis>
+  <nanos>308200</nanos>
+  <sequence>322</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, velvet, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.084444400Z</date>
+  <millis>1666824498084</millis>
+  <nanos>444400</nanos>
+  <sequence>323</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.086443300Z</date>
+  <millis>1666824498086</millis>
+  <nanos>443300</nanos>
+  <sequence>324</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.088443300Z</date>
+  <millis>1666824498088</millis>
+  <nanos>443300</nanos>
+  <sequence>325</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.090443300Z</date>
+  <millis>1666824498090</millis>
+  <nanos>443300</nanos>
+  <sequence>326</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.090443300Z</date>
+  <millis>1666824498090</millis>
+  <nanos>443300</nanos>
+  <sequence>327</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, unto, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.093445400Z</date>
+  <millis>1666824498093</millis>
+  <nanos>445400</nanos>
+  <sequence>328</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.095444800Z</date>
+  <millis>1666824498095</millis>
+  <nanos>444800</nanos>
+  <sequence>329</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.097447400Z</date>
+  <millis>1666824498097</millis>
+  <nanos>447400</nanos>
+  <sequence>330</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.099633300Z</date>
+  <millis>1666824498099</millis>
+  <nanos>633300</nanos>
+  <sequence>331</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.101642400Z</date>
+  <millis>1666824498101</millis>
+  <nanos>642400</nanos>
+  <sequence>332</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.103644900Z</date>
+  <millis>1666824498103</millis>
+  <nanos>644900</nanos>
+  <sequence>333</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.107210800Z</date>
+  <millis>1666824498107</millis>
+  <nanos>210800</nanos>
+  <sequence>334</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.109214300Z</date>
+  <millis>1666824498109</millis>
+  <nanos>214300</nanos>
+  <sequence>335</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.112213800Z</date>
+  <millis>1666824498112</millis>
+  <nanos>213800</nanos>
+  <sequence>336</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.113213300Z</date>
+  <millis>1666824498113</millis>
+  <nanos>213300</nanos>
+  <sequence>337</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, whose, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.115212700Z</date>
+  <millis>1666824498115</millis>
+  <nanos>212700</nanos>
+  <sequence>338</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.118212500Z</date>
+  <millis>1666824498118</millis>
+  <nanos>212500</nanos>
+  <sequence>339</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.120212100Z</date>
+  <millis>1666824498120</millis>
+  <nanos>212100</nanos>
+  <sequence>340</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.121825200Z</date>
+  <millis>1666824498121</millis>
+  <nanos>825200</nanos>
+  <sequence>341</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.124625300Z</date>
+  <millis>1666824498124</millis>
+  <nanos>625300</nanos>
+  <sequence>342</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.127354100Z</date>
+  <millis>1666824498127</millis>
+  <nanos>354100</nanos>
+  <sequence>343</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.129365500Z</date>
+  <millis>1666824498129</millis>
+  <nanos>365500</nanos>
+  <sequence>344</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.131936500Z</date>
+  <millis>1666824498131</millis>
+  <nanos>936500</nanos>
+  <sequence>345</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.133937300Z</date>
+  <millis>1666824498133</millis>
+  <nanos>937300</nanos>
+  <sequence>346</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.135937Z</date>
+  <millis>1666824498135</millis>
+  <nanos>937000</nanos>
+  <sequence>347</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.137936200Z</date>
+  <millis>1666824498137</millis>
+  <nanos>936200</nanos>
+  <sequence>348</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.139936400Z</date>
+  <millis>1666824498139</millis>
+  <nanos>936400</nanos>
+  <sequence>349</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.141938700Z</date>
+  <millis>1666824498141</millis>
+  <nanos>938700</nanos>
+  <sequence>350</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.144937200Z</date>
+  <millis>1666824498144</millis>
+  <nanos>937200</nanos>
+  <sequence>351</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.146937100Z</date>
+  <millis>1666824498146</millis>
+  <nanos>937100</nanos>
+  <sequence>352</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.149120600Z</date>
+  <millis>1666824498149</millis>
+  <nanos>120600</nanos>
+  <sequence>353</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.150132600Z</date>
+  <millis>1666824498150</millis>
+  <nanos>132600</nanos>
+  <sequence>354</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, violet, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.152130300Z</date>
+  <millis>1666824498152</millis>
+  <nanos>130300</nanos>
+  <sequence>355</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.154129700Z</date>
+  <millis>1666824498154</millis>
+  <nanos>129700</nanos>
+  <sequence>356</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.157129800Z</date>
+  <millis>1666824498157</millis>
+  <nanos>129800</nanos>
+  <sequence>357</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.159130600Z</date>
+  <millis>1666824498159</millis>
+  <nanos>130600</nanos>
+  <sequence>358</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.161650300Z</date>
+  <millis>1666824498161</millis>
+  <nanos>650300</nanos>
+  <sequence>359</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.163650600Z</date>
+  <millis>1666824498163</millis>
+  <nanos>650600</nanos>
+  <sequence>360</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.166650500Z</date>
+  <millis>1666824498166</millis>
+  <nanos>650500</nanos>
+  <sequence>361</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.168909600Z</date>
+  <millis>1666824498168</millis>
+  <nanos>909600</nanos>
+  <sequence>362</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.169912300Z</date>
+  <millis>1666824498169</millis>
+  <nanos>912300</nanos>
+  <sequence>363</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, unseen, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.171851100Z</date>
+  <millis>1666824498171</millis>
+  <nanos>851100</nanos>
+  <sequence>364</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.173862200Z</date>
+  <millis>1666824498173</millis>
+  <nanos>862200</nanos>
+  <sequence>365</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.176862200Z</date>
+  <millis>1666824498176</millis>
+  <nanos>862200</nanos>
+  <sequence>366</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.178862600Z</date>
+  <millis>1666824498178</millis>
+  <nanos>862600</nanos>
+  <sequence>367</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.180861300Z</date>
+  <millis>1666824498180</millis>
+  <nanos>861300</nanos>
+  <sequence>368</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.182862200Z</date>
+  <millis>1666824498182</millis>
+  <nanos>862200</nanos>
+  <sequence>369</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.184861400Z</date>
+  <millis>1666824498184</millis>
+  <nanos>861400</nanos>
+  <sequence>370</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.185864100Z</date>
+  <millis>1666824498185</millis>
+  <nanos>864100</nanos>
+  <sequence>371</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, wretch, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.187863200Z</date>
+  <millis>1666824498187</millis>
+  <nanos>863200</nanos>
+  <sequence>372</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.189863500Z</date>
+  <millis>1666824498189</millis>
+  <nanos>863500</nanos>
+  <sequence>373</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.191860900Z</date>
+  <millis>1666824498191</millis>
+  <nanos>860900</nanos>
+  <sequence>374</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.193861600Z</date>
+  <millis>1666824498193</millis>
+  <nanos>861600</nanos>
+  <sequence>375</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.195862300Z</date>
+  <millis>1666824498195</millis>
+  <nanos>862300</nanos>
+  <sequence>376</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.198861500Z</date>
+  <millis>1666824498198</millis>
+  <nanos>861500</nanos>
+  <sequence>377</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.201860300Z</date>
+  <millis>1666824498201</millis>
+  <nanos>860300</nanos>
+  <sequence>378</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.204080300Z</date>
+  <millis>1666824498204</millis>
+  <nanos>80300</nanos>
+  <sequence>379</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.207089700Z</date>
+  <millis>1666824498207</millis>
+  <nanos>89700</nanos>
+  <sequence>380</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.209090900Z</date>
+  <millis>1666824498209</millis>
+  <nanos>90900</nanos>
+  <sequence>381</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.211089400Z</date>
+  <millis>1666824498211</millis>
+  <nanos>89400</nanos>
+  <sequence>382</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.214090500Z</date>
+  <millis>1666824498214</millis>
+  <nanos>90500</nanos>
+  <sequence>383</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.217088800Z</date>
+  <millis>1666824498217</millis>
+  <nanos>88800</nanos>
+  <sequence>384</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.219089300Z</date>
+  <millis>1666824498219</millis>
+  <nanos>89300</nanos>
+  <sequence>385</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.221494400Z</date>
+  <millis>1666824498221</millis>
+  <nanos>494400</nanos>
+  <sequence>386</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.222774900Z</date>
+  <millis>1666824498222</millis>
+  <nanos>774900</nanos>
+  <sequence>387</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.225786700Z</date>
+  <millis>1666824498225</millis>
+  <nanos>786700</nanos>
+  <sequence>388</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.227785800Z</date>
+  <millis>1666824498227</millis>
+  <nanos>785800</nanos>
+  <sequence>389</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.227785800Z</date>
+  <millis>1666824498227</millis>
+  <nanos>785800</nanos>
+  <sequence>390</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, whether, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.230786700Z</date>
+  <millis>1666824498230</millis>
+  <nanos>786700</nanos>
+  <sequence>391</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.232787200Z</date>
+  <millis>1666824498232</millis>
+  <nanos>787200</nanos>
+  <sequence>392</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.234786400Z</date>
+  <millis>1666824498234</millis>
+  <nanos>786400</nanos>
+  <sequence>393</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.237785600Z</date>
+  <millis>1666824498237</millis>
+  <nanos>785600</nanos>
+  <sequence>394</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.238976900Z</date>
+  <millis>1666824498238</millis>
+  <nanos>976900</nanos>
+  <sequence>395</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.241989700Z</date>
+  <millis>1666824498241</millis>
+  <nanos>989700</nanos>
+  <sequence>396</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.243989300Z</date>
+  <millis>1666824498243</millis>
+  <nanos>989300</nanos>
+  <sequence>397</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.245989300Z</date>
+  <millis>1666824498245</millis>
+  <nanos>989300</nanos>
+  <sequence>398</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.247990800Z</date>
+  <millis>1666824498247</millis>
+  <nanos>990800</nanos>
+  <sequence>399</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.249987700Z</date>
+  <millis>1666824498249</millis>
+  <nanos>987700</nanos>
+  <sequence>400</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.252992400Z</date>
+  <millis>1666824498252</millis>
+  <nanos>992400</nanos>
+  <sequence>401</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.255153700Z</date>
+  <millis>1666824498255</millis>
+  <nanos>153700</nanos>
+  <sequence>402</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.256542100Z</date>
+  <millis>1666824498256</millis>
+  <nanos>542100</nanos>
+  <sequence>403</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.259552400Z</date>
+  <millis>1666824498259</millis>
+  <nanos>552400</nanos>
+  <sequence>404</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.261550800Z</date>
+  <millis>1666824498261</millis>
+  <nanos>550800</nanos>
+  <sequence>405</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.263551900Z</date>
+  <millis>1666824498263</millis>
+  <nanos>551900</nanos>
+  <sequence>406</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.264551200Z</date>
+  <millis>1666824498264</millis>
+  <nanos>551200</nanos>
+  <sequence>407</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, us, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.266554Z</date>
+  <millis>1666824498266</millis>
+  <nanos>554000</nanos>
+  <sequence>408</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.269554Z</date>
+  <millis>1666824498269</millis>
+  <nanos>554000</nanos>
+  <sequence>409</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.271550900Z</date>
+  <millis>1666824498271</millis>
+  <nanos>550900</nanos>
+  <sequence>410</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.273553400Z</date>
+  <millis>1666824498273</millis>
+  <nanos>553400</nanos>
+  <sequence>411</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.275553300Z</date>
+  <millis>1666824498275</millis>
+  <nanos>553300</nanos>
+  <sequence>412</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.278553900Z</date>
+  <millis>1666824498278</millis>
+  <nanos>553900</nanos>
+  <sequence>413</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.280554Z</date>
+  <millis>1666824498280</millis>
+  <nanos>554000</nanos>
+  <sequence>414</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.282553400Z</date>
+  <millis>1666824498282</millis>
+  <nanos>553400</nanos>
+  <sequence>415</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.284551900Z</date>
+  <millis>1666824498284</millis>
+  <nanos>551900</nanos>
+  <sequence>416</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.286551800Z</date>
+  <millis>1666824498286</millis>
+  <nanos>551800</nanos>
+  <sequence>417</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.288551900Z</date>
+  <millis>1666824498288</millis>
+  <nanos>551900</nanos>
+  <sequence>418</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.292552100Z</date>
+  <millis>1666824498292</millis>
+  <nanos>552100</nanos>
+  <sequence>419</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.293551600Z</date>
+  <millis>1666824498293</millis>
+  <nanos>551600</nanos>
+  <sequence>420</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>Word, upstarting, is already in the database.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.295552600Z</date>
+  <millis>1666824498295</millis>
+  <nanos>552600</nanos>
+  <sequence>421</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.298551500Z</date>
+  <millis>1666824498298</millis>
+  <nanos>551500</nanos>
+  <sequence>422</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.300551600Z</date>
+  <millis>1666824498300</millis>
+  <nanos>551600</nanos>
+  <sequence>423</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.302551800Z</date>
+  <millis>1666824498302</millis>
+  <nanos>551800</nanos>
+  <sequence>424</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.305551600Z</date>
+  <millis>1666824498305</millis>
+  <nanos>551600</nanos>
+  <sequence>425</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.307551900Z</date>
+  <millis>1666824498307</millis>
+  <nanos>551900</nanos>
+  <sequence>426</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.310552400Z</date>
+  <millis>1666824498310</millis>
+  <nanos>552400</nanos>
+  <sequence>427</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.313090Z</date>
+  <millis>1666824498313</millis>
+  <nanos>90000</nanos>
+  <sequence>428</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.315090700Z</date>
+  <millis>1666824498315</millis>
+  <nanos>90700</nanos>
+  <sequence>429</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.317090200Z</date>
+  <millis>1666824498317</millis>
+  <nanos>90200</nanos>
+  <sequence>430</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.319091100Z</date>
+  <millis>1666824498319</millis>
+  <nanos>91100</nanos>
+  <sequence>431</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.322090300Z</date>
+  <millis>1666824498322</millis>
+  <nanos>90300</nanos>
+  <sequence>432</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.324090600Z</date>
+  <millis>1666824498324</millis>
+  <nanos>90600</nanos>
+  <sequence>433</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.326089500Z</date>
+  <millis>1666824498326</millis>
+  <nanos>89500</nanos>
+  <sequence>434</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.328090900Z</date>
+  <millis>1666824498328</millis>
+  <nanos>90900</nanos>
+  <sequence>435</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.331090600Z</date>
+  <millis>1666824498331</millis>
+  <nanos>90600</nanos>
+  <sequence>436</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.332886600Z</date>
+  <millis>1666824498332</millis>
+  <nanos>886600</nanos>
+  <sequence>437</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.334887100Z</date>
+  <millis>1666824498334</millis>
+  <nanos>887100</nanos>
+  <sequence>438</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.337887Z</date>
+  <millis>1666824498337</millis>
+  <nanos>887000</nanos>
+  <sequence>439</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.339886200Z</date>
+  <millis>1666824498339</millis>
+  <nanos>886200</nanos>
+  <sequence>440</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.341886700Z</date>
+  <millis>1666824498341</millis>
+  <nanos>886700</nanos>
+  <sequence>441</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.343887200Z</date>
+  <millis>1666824498343</millis>
+  <nanos>887200</nanos>
+  <sequence>442</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.346888700Z</date>
+  <millis>1666824498346</millis>
+  <nanos>888700</nanos>
+  <sequence>443</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.348886Z</date>
+  <millis>1666824498348</millis>
+  <nanos>886000</nanos>
+  <sequence>444</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValues</method>
+  <thread>18</thread>
+  <message>1 rows affected.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.359889300Z</date>
+  <millis>1666824498359</millis>
+  <nanos>889300</nanos>
+  <sequence>445</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>establishConnection</method>
+  <thread>18</thread>
+  <message>Database connection established.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.368471200Z</date>
+  <millis>1666824498368</millis>
+  <nanos>471200</nanos>
+  <sequence>446</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>getValues</method>
+  <thread>18</thread>
+  <message>Database result query returned.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:18.501882200Z</date>
+  <millis>1666824498501</millis>
+  <nanos>882200</nanos>
+  <sequence>447</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>start</method>
+  <thread>18</thread>
+  <message>Scene Word Occurances displayed.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:20.033832Z</date>
+  <millis>1666824500033</millis>
+  <nanos>832000</nanos>
+  <sequence>448</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>lambda$1</method>
+  <thread>18</thread>
+  <message>Next button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:20.979384200Z</date>
+  <millis>1666824500979</millis>
+  <nanos>384200</nanos>
+  <sequence>449</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>lambda$2</method>
+  <thread>18</thread>
+  <message>Back button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:21.813368500Z</date>
+  <millis>1666824501813</millis>
+  <nanos>368500</nanos>
+  <sequence>450</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>lambda$1</method>
+  <thread>18</thread>
+  <message>Next button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:23.685293100Z</date>
+  <millis>1666824503685</millis>
+  <nanos>293100</nanos>
+  <sequence>451</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>lambda$2</method>
+  <thread>18</thread>
+  <message>Back button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:24.367619600Z</date>
+  <millis>1666824504367</millis>
+  <nanos>619600</nanos>
+  <sequence>452</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>lambda$1</method>
+  <thread>18</thread>
+  <message>Next button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:25.060064100Z</date>
+  <millis>1666824505060</millis>
+  <nanos>64100</nanos>
+  <sequence>453</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>closeProgram</method>
+  <thread>18</thread>
+  <message>User requested to Exit.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:25.061679700Z</date>
+  <millis>1666824505061</millis>
+  <nanos>679700</nanos>
+  <sequence>454</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.ConfirmBox</class>
+  <method>display</method>
+  <thread>18</thread>
+  <message>Confirmation box displayed.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:25.807525700Z</date>
+  <millis>1666824505807</millis>
+  <nanos>525700</nanos>
+  <sequence>455</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.ConfirmBox</class>
+  <method>lambda$1</method>
+  <thread>18</thread>
+  <message>No Button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:26.669275200Z</date>
+  <millis>1666824506669</millis>
+  <nanos>275200</nanos>
+  <sequence>456</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>closeProgram</method>
+  <thread>18</thread>
+  <message>User requested to Exit.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:26.670274600Z</date>
+  <millis>1666824506670</millis>
+  <nanos>274600</nanos>
+  <sequence>457</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.ConfirmBox</class>
+  <method>display</method>
+  <thread>18</thread>
+  <message>Confirmation box displayed.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:27.217610100Z</date>
+  <millis>1666824507217</millis>
+  <nanos>610100</nanos>
+  <sequence>458</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.ConfirmBox</class>
+  <method>lambda$1</method>
+  <thread>18</thread>
+  <message>No Button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:27.979585100Z</date>
+  <millis>1666824507979</millis>
+  <nanos>585100</nanos>
+  <sequence>459</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>closeProgram</method>
+  <thread>18</thread>
+  <message>User requested to Exit.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:27.980575200Z</date>
+  <millis>1666824507980</millis>
+  <nanos>575200</nanos>
+  <sequence>460</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>cen4802.ConfirmBox</class>
+  <method>display</method>
+  <thread>18</thread>
+  <message>Confirmation box displayed.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:28.779656300Z</date>
+  <millis>1666824508779</millis>
+  <nanos>656300</nanos>
+  <sequence>461</sequence>
+  <logger>global</logger>
+  <level>FINEST</level>
+  <class>cen4802.ConfirmBox</class>
+  <method>lambda$0</method>
+  <thread>18</thread>
+  <message>Yes Button clicked.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:28.819939300Z</date>
+  <millis>1666824508819</millis>
+  <nanos>939300</nanos>
+  <sequence>462</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>establishConnection</method>
+  <thread>1</thread>
+  <message>Database connection established.</message>
+</record>
+<record>
+  <date>2022-10-26T22:48:28.820938500Z</date>
+  <millis>1666824508820</millis>
+  <nanos>938500</nanos>
+  <sequence>463</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>getValuesError</method>
+  <thread>1</thread>
+  <message>SQL results query error.</message>
+  <exception>
+    <message>java.sql.SQLSyntaxErrorException: Undeclared variable: 20error</message>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLError</class>
+      <method>createSQLException</method>
+      <line>120</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping</class>
+      <method>translateException</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeQuery</method>
+      <line>1201</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesJDBC</class>
+      <method>getValuesError</method>
+      <line>79</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesGUI</class>
+      <method>main</method>
+      <line>80</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DirectMethodHandleAccessor</class>
+      <method>invoke</method>
+      <line>104</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>577</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>launchApplicationWithArgs</method>
+      <line>465</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>launchApplication</method>
+      <line>364</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DirectMethodHandleAccessor</class>
+      <method>invoke</method>
+      <line>104</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>577</line>
+    </frame>
+    <frame>
+      <class>sun.launcher.LauncherHelper$FXHelper</class>
+      <method>main</method>
+      <line>1081</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2022-10-26T22:48:28.821938400Z</date>
+  <millis>1666824508821</millis>
+  <nanos>938400</nanos>
+  <sequence>464</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValuesError1</method>
+  <thread>1</thread>
+  <message>SQL insert query error.</message>
+  <exception>
+    <message>java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Log Error Test',1)' at line 1</message>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLError</class>
+      <method>createSQLException</method>
+      <line>120</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping</class>
+      <method>translateException</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeUpdateInternal</method>
+      <line>1335</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeLargeUpdate</method>
+      <line>2085</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeUpdate</method>
+      <line>1246</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesJDBC</class>
+      <method>insertValuesError1</method>
+      <line>131</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesGUI</class>
+      <method>main</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DirectMethodHandleAccessor</class>
+      <method>invoke</method>
+      <line>104</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>577</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>launchApplicationWithArgs</method>
+      <line>465</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>launchApplication</method>
+      <line>364</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DirectMethodHandleAccessor</class>
+      <method>invoke</method>
+      <line>104</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>577</line>
+    </frame>
+    <frame>
+      <class>sun.launcher.LauncherHelper$FXHelper</class>
+      <method>main</method>
+      <line>1081</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2022-10-26T22:48:28.822937900Z</date>
+  <millis>1666824508822</millis>
+  <nanos>937900</nanos>
+  <sequence>465</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>insertValuesError2</method>
+  <thread>1</thread>
+  <message>SQL insert query error.</message>
+  <exception>
+    <message>java.sql.SQLException: Column count doesn't match value count at row 1</message>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLError</class>
+      <method>createSQLException</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping</class>
+      <method>translateException</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeUpdateInternal</method>
+      <line>1335</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeLargeUpdate</method>
+      <line>2085</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.StatementImpl</class>
+      <method>executeUpdate</method>
+      <line>1246</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesJDBC</class>
+      <method>insertValuesError2</method>
+      <line>155</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesGUI</class>
+      <method>main</method>
+      <line>82</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DirectMethodHandleAccessor</class>
+      <method>invoke</method>
+      <line>104</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>577</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>launchApplicationWithArgs</method>
+      <line>465</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>launchApplication</method>
+      <line>364</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DirectMethodHandleAccessor</class>
+      <method>invoke</method>
+      <line>104</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>577</line>
+    </frame>
+    <frame>
+      <class>sun.launcher.LauncherHelper$FXHelper</class>
+      <method>main</method>
+      <line>1081</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2022-10-26T22:48:28.822937900Z</date>
+  <millis>1666824508822</millis>
+  <nanos>937900</nanos>
+  <sequence>466</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program End.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-27T14:48:21.548502600Z</date>
+  <millis>1666882101548</millis>
+  <nanos>502600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>cen4802.WordOccurrencesGUI</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program Start.</message>
+</record>
+<record>
+  <date>2022-10-27T14:48:22.411636400Z</date>
+  <millis>1666882102411</millis>
+  <nanos>636400</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>cen4802.WordOccurrencesJDBC</class>
+  <method>establishConnection</method>
+  <thread>18</thread>
+  <message>Database connection failed.</message>
+  <exception>
+    <message>com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.</message>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLError</class>
+      <method>createCommunicationsException</method>
+      <line>174</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping</class>
+      <method>translateException</method>
+      <line>64</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.ConnectionImpl</class>
+      <method>createNewIO</method>
+      <line>828</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.ConnectionImpl</class>
+      <method>&lt;init&gt;</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.ConnectionImpl</class>
+      <method>getInstance</method>
+      <line>241</line>
+    </frame>
+    <frame>
+      <class>com.mysql.cj.jdbc.NonRegisteringDriver</class>
+      <method>connect</method>
+      <line>198</line>
+    </frame>
+    <frame>
+      <class>java.sql.DriverManager</class>
+      <method>getConnection</method>
+      <line>683</line>
+    </frame>
+    <frame>
+      <class>java.sql.DriverManager</class>
+      <method>getConnection</method>
+      <line>230</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesJDBC</class>
+      <method>establishConnection</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrences</class>
+      <method>storeWordsInDatabase</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>cen4802.WordOccurrencesGUI</class>
+      <method>start</method>
+      <line>144</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.LauncherImpl</class>
+      <method>lambda$launchApplication1$9</method>
+      <line>847</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.PlatformImpl</class>
+      <method>lambda$runAndWait$12</method>
+      <line>484</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.PlatformImpl</class>
+      <method>lambda$runLater$10</method>
+      <line>457</line>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>399</line>
+    </frame>
+    <frame>
+      <class>com.sun.javafx.application.PlatformImpl</class>
+      <method>lambda$runLater$11</method>
+      <line>456</line>
+    </frame>
+    <frame>
+      <class>com.sun.glass.ui.InvokeLaterDispatcher$Future</class>
+      <method>run</method>
+      <line>96</line>
+    </frame>
+    <frame>
+      <class>com.sun.glass.ui.win.WinApplication</class>
+      <method>_runLoop</method>
+    </frame>
+    <frame>
+      <class>com.sun.glass.ui.win.WinApplication</class>
+      <method>lambda$runLoop$3</method>
+      <line>184</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>833</line>
+    </frame>
+  </exception>
+</record>
+</log>
