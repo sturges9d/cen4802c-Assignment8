@@ -66,15 +66,15 @@ public class WordOccurrencesGUI extends Application {
 	String endText = "*** END OF THE PROJECT GUTENBERG EBOOK THE RAVEN ***"; 
 	
 	/**
-	 * This is the main method.
+	 * This was the main method.
 	 * 
 	 * @param args Default arguments for main.
 	 */
-	public static void main(String[] args) {
+	public static void mainOld() {
 		Assignment8Logger.setUpLogger();
 
 		LOGGER.log(Level.FINE, "Program Start.");
-		launch(args);
+		launch();
 		// For demonstrating logging errors.
 		Connection connection = WordOccurrencesJDBC.establishConnection();
 		WordOccurrencesJDBC.getValuesError(connection);
