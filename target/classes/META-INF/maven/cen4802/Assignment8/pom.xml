@@ -19,6 +19,7 @@
         	</configuration>
   		</plugin>
   	</plugins>
+  	<finalName>cen4802c-Assignment8</finalName>
   </build>
   <dependencies>
   	<dependency>
